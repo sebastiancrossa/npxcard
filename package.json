@@ -1,6 +1,6 @@
 {
-  "name": "crossa",
-  "version": "1.1.0",
+  "name": "@sebastiancrossa/card",
+  "version": "1.0.0",
   "description": "Personal card for Sebastian Crossa (@sebastiancrossa)",
   "main": "/bin/card.js",
   "bin": {
@@ -42,6 +42,7 @@
   },
   "dependencies": {},
   "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
   }
 }
